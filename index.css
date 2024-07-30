@@ -6,3 +6,9 @@ h1 {
 p {
     font-size: larger;
 }
+
+#Thank {
+    color:blueviolet ;
+    text-align: center;
+    font-size: 40px;
+}
