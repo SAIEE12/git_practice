@@ -8,7 +8,13 @@ p {
 }
 
 #Thank {
+    position: absolute;
     color:blueviolet ;
     text-align: center;
     font-size: 40px;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: fit-content;
 }
