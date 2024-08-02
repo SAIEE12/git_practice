@@ -1,0 +1,8 @@
+Git is a distributed version control system.
+We can -share the code easily 
+       -creates the versions of the code
+The life-cycle of the git is  add
+                               |
+                             commit
+                               |
+                              push
